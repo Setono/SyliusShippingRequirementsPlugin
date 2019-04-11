@@ -1,0 +1,6 @@
+setono_sylius_shipping_requirements:
+    ui:
+        edit_requirement: Edit shipping requirement
+        manage_requirements: Manage shipping requirements
+        new_requirement: New shipping requirement
+        requirements: Shipping requirements

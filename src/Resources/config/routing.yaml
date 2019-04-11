@@ -1,0 +1,3 @@
+setono_sylius_shipping_requirements_admin:
+    resource: "@SetonoSyliusShippingRequirementsPlugin/Resources/config/routing/admin.yaml"
+    prefix: /admin

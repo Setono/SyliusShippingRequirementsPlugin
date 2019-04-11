@@ -1,0 +1,2 @@
+setono_sylius_shipping_requirements:
+    resource: "@SetonoSyliusShippingRequirementsPlugin/Resources/config/routing.yaml"

@@ -1,0 +1,13 @@
+setono_sylius_shipping_requirements_admin_requirement:
+    resource: |
+        alias: setono_sylius_shipping_requirements.requirement
+        section: admin
+        templates: SyliusAdminBundle:Crud
+        redirect: update
+        grid: setono_sylius_shipping_requirements_admin_requirement
+        vars:
+            all:
+                subheader: setono_sylius_shipping_requirements.ui.manage_requirements
+            index:
+                icon: 'check circle'
+    type: sylius.resource

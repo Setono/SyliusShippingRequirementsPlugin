@@ -1,0 +1,2 @@
+imports:
+    - "@SetonoSyliusShippingRequirementsPlugin/Resources/config/grids/setono_sylius_shipping_requirements_admin_requirement.yaml"
